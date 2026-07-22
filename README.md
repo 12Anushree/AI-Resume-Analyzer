@@ -74,6 +74,6 @@ Anushree Saha| Tech Enthusiast 🎶
 
 
 
-</div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FFD700,50:FF8C00,75:1E90FF,100:8A2BE2&height=150&section=footer" /></div> ```
+</div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color==0:e11d48,20:fde047,40:f97316,65:0ea5e9,85:a855f7,100:581c87&height=150&section=footer" /></div> ```
 
 
